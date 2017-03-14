@@ -3,7 +3,7 @@ name: fuel_plugin_example_v4
 # Human-readable name for your plugin
 title: Title for fuel_plugin_example_v4 plugin
 # Plugin version
-version: '4.0.0'
+version: '0.1'
 # Description
 description: Please describe your plugin here
 # Minimum required fuel version
